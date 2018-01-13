@@ -1,0 +1,21 @@
+set nocompatible
+set t_Co=256
+syntax enable
+colorscheme gruvbox 
+set number
+set laststatus=2
+filetype plugin indent on
+set nohlsearch
+set incsearch
+set ignorecase
+set ruler
+set autoindent
+set softtabstop=2
+set shiftwidth=2
+set shiftround
+set tabstop=4
+set expandtab
+set smarttab
+set nowrap
+set sessionoptions-=options
+set background=dark
