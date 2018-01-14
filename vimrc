@@ -51,9 +51,6 @@ set foldenable
 "<space> opens/closes folds.
 nnoremap <space> za
 
-"Fold based on indent level. Run :help foldmethod to explore.
-foldmethod=indent
-
 "Show command in bottom bar.
 set showcmd
 
