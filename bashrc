@@ -125,3 +125,14 @@ fi
 if [ -x /usr/bin/mint-fortune ]; then
      /usr/bin/mint-fortune
 fi
+
+# auxiliary functions
+# this one is a function for a countdown
+# usage countdown <time in seconds>
+function countdown(){
+  date1=$((`date +%s` + $1));
+  while [ "$date1" -ge `date +%s` ]; do
+          echo -ne "$(date -u --date @$(($date1 - `date +%s`)) +%H:%M:%S)\r";
+          sleep 0.1
+  done
+  }
