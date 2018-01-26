@@ -7,3 +7,4 @@
 	default = simple
 [alias]
     one = log --pretty --oneline
+    s = status
