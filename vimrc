@@ -13,7 +13,7 @@ syntax enable
 set number
 
 "Set colorscheme (must be available in .vim/colors).
-colorscheme gruvbox 
+colorscheme desert 
 
 "The last window will always have a status line.
 set laststatus=2
