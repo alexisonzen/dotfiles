@@ -1,0 +1,35 @@
+# Conky? 
+source: https://github.com/brndnmtthws/conky
+Basically like task manager/system monitor in Windows, it displays system information on the desktop.
+Setting it up will likely involve also developing a custom .conkyrc file.
+- https://www.linux.com/news/experts-guide-configuring-conky
+
+# cool-retro-term
+source: https://github.com/Swordfish90/cool-retro-term
+Cool-retro-term is a terminal emulator which mimics the look and feel of the old cathode tube screens. 
+It has been designed to be eye-candy, customizable, and reasonably lightweight.
+
+# tmux
+source: https://github.com/tmux/tmux
+Tmux allows me to do all that multi-windowed terminal work I've been looking for since I got into
+programming. 
+
+# irssi + discord-irc + pidgin + ???
+source:
+source: https://github.com/reactiflux/discord-irc
+source: 
+My understanding is that irssi is a favored IRC chat client for linux users. My end goal would be to set it up
+so that I can have a chat window in a corner of my screen, like what is often seen with streamers on Twitch or
+YouTube, so that I can keep in touch with *everyone* without having to constantly check on so many other 
+apps or notifications. I can have my computer open, work in the main window, and whenever I want, switch focus
+to the corner window (and expand it if I so desire), and either cycle through the different applications (Group-
+Me, Facebook Messenger, Discord, Signal, Twist, etc) or scroll through the conversations/channels that I'm
+involved in. All in one. fucking. window.
+
+# cmus
+source: https://cmus.github.io/
+To be honest, I don't have a favored application for this, yet. It's just the first that came up. The concept is
+similar to the chat window referenced earlier. It's a single window that manages my music for me. *IF* this
+window is able to plug into Spotify/Google Music/whatever, it's golden. The goal is that I can switch focus to
+my music window, play the music I want to play, and then get out, all without having to fuss with a million
+other things.

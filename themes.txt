@@ -1,0 +1,20 @@
+These are fonts that I know I have enjoyed.
+
+# fira_mono
+source:
+
+I first ran into `fira mono` as part of the gruvbox examples. I like this font for coding.
+
+# ???
+I first ran into this font as part of the Ancestor android game.
+
+# cathode
+source: http://www.secretgeometry.com/apps/cathode/
+
+# pip-boy
+source:
+
+This and cathode are both very similar. If I can find a solution that combines my favorite aspects of both,
+that would be ideal.
+
+
