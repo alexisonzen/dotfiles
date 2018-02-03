@@ -1,0 +1,11 @@
+I want to learn how to do these things:
+
+1. Set up a startup/bash script that will quickly configure a workstation with my custom
+configurations, e.g. my .bashrc/zshrc, .vimrc, etc. I boot up or ssh into a computer, run this script, go
+make coffee and, five minutes later, the machine looks and runs like *my* machine.
+
+For example, I would like to quickly and easily have the following setting automatically run by bash, so that
+I don't have to worry about accidentally mashing <CAPS LOCK> *and* I can use it as a <Ctrl> key for the purposes
+of using vim.
+- `setxkbmap -option ctrl:nocaps`
+
